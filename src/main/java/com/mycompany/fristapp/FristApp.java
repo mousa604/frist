@@ -11,6 +11,6 @@ package com.mycompany.fristapp;
 public class FristApp {
 
     public static void main(String[] args) {
-        System.out.println("mohamed");
+        System.out.println("mohamed Emad");
     }
 }
